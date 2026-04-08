@@ -1,3 +1,5 @@
+package ru.netology.testmode.tests;
+
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
